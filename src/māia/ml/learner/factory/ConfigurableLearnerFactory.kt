@@ -2,9 +2,6 @@ package māia.ml.learner.factory
 
 /*
  * TODO
- *
- * TODO: Move out of core package so that learner package doesn't depend on
- *       configuration package.
  */
 import māia.configure.Configurable
 import māia.configure.Configuration
