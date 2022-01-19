@@ -1,11 +1,11 @@
-package māia.ml.learner.factory
+package maia.ml.learner.factory
 
 /*
  * TODO
  */
-import māia.configure.Configurable
-import māia.configure.Configuration
-import māia.ml.learner.Learner
+import maia.configure.Configurable
+import maia.configure.Configuration
+import maia.ml.learner.Learner
 
 /**
  * Base class for factories which can instantiate learners from a configuration.
